@@ -12,6 +12,7 @@ This looks into current working directory for `docker-compose.yml` file.
 ### start Docker Compose
 This looks into current working directory for `docker-compose.yml` file.
 `docker-compose up` 
+Downside of `docker-compose`: running multiple container without terminal interaction
 Options
   * -d: run containers in the background `docker-compose up -d`
 
